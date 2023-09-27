@@ -5,9 +5,10 @@
 }
 
 header {
-    background-color: rgb(74, 13, 228);
+    background-color: rgb(53, 5, 228);
     color: white;
 }
+
 
 nav {
     background-color: rgb(204, 204, 7);
@@ -29,4 +30,19 @@ main {
       display:block;
       justify-content:space-around;
       flex-direction: column;
+}
+
+.tittle_index {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.pontos_marcozero {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    width: 600px;
+    margin: 40px;
+    padding: 40px;
 }
