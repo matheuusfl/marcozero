@@ -46,3 +46,13 @@ main {
     margin: 40px;
     padding: 40px;
 }
+
+.outros_pontos_turisticos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    width: 600px;
+    margin: 40px;
+    padding: 40px;
+}
